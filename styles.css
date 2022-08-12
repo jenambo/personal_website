@@ -1,0 +1,19 @@
+body{
+    background-color: darkslategrey;
+    font-family: sans-serif;
+
+}
+
+.top {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.aboutMe {
+    box-sizing: content-box;
+    padding: 10px;
+    margin: auto;
+
+}
